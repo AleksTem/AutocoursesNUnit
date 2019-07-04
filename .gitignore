@@ -1,0 +1,13 @@
+*.ide-wal
+*.lock
+*.ide
+*.ide-shm
+*.json
+*.props
+*.targets
+*.txt
+*.xml
+*.p7s
+*.nupkg
+*.md
+*.CopyComplete
