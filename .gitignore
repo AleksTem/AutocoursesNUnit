@@ -11,3 +11,4 @@
 *.nupkg
 *.md
 *.CopyComplete
+*.tmp
