@@ -2,7 +2,7 @@
 
 namespace Task01
 {
-    [TestFixture]
+    [TestFixture(Category = "Calculator")]
     class CalculatorTests
     {
         Calculator instance;

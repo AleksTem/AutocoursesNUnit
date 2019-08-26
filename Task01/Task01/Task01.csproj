@@ -49,6 +49,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Calculators\Calculator.cs" />
+    <Compile Include="Calculators\CalculatorScientific.cs" />
+    <Compile Include="Tests\CalculatorScientificTests.cs" />
+    <Compile Include="Tests\StringTests.cs" />
     <Compile Include="Tests\CalculatorTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
